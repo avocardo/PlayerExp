@@ -1,0 +1,7 @@
+name: PlayerExp
+main: me.avocardo.playerexp.PlayerExp
+version: 1.0.0
+commands:
+  pxp:
+    description: Various commands for PlayerExp.
+    usage: /<command> <arg>

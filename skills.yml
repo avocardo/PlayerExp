@@ -1,0 +1,21 @@
+FIRE_ARROW:
+	Unlock: 300
+	CoolDown: 600
+POISON_ARROW:
+	Unlock: 300
+	CoolDown: 600
+EXPLOSIVE_ARROW:
+	Unlock: 300
+	CoolDown: 600
+CONFUSION_ARROW:
+	Unlock: 300
+	CoolDown: 600
+BLINDNESS_ARROW:
+	Unlock: 300
+	CoolDown: 600
+FIRE_BLADE:
+	Unlock: 300
+	CoolDown: 600
+POISON_BLADE:
+	Unlock: 300
+	CoolDown: 600
